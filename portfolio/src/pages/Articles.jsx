@@ -1,10 +1,13 @@
 import NavBar from "../components/NavBar"
+import '../styles/articles.css'
 
 function Articles() {
   return (
-    <div className='articles-component'>
-      <NavBar/>
-      <p>links to Medium articles go here</p>
+    <div>
+       <NavBar/>
+      <div className='articles-component'>
+        <p>links to Medium articles go here</p>
+      </div> 
     </div>
   )
 }

@@ -1,10 +1,13 @@
 import NavBar from "../components/NavBar"
+import '../styles/projects.css'
 
 function Projects() {
   return (
-    <div className='projects-component'>
+    <div>
       <NavBar />
-      <p>links and visuals of notable projects go here</p>
+      <div className='projects-component'>
+        <p>links and visuals of notable projects go here</p>
+      </div>
     </div>
   )
 }

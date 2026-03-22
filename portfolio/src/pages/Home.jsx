@@ -1,10 +1,13 @@
 import NavBar from "../components/NavBar"
+import '../styles/home.css'
 
 function Home() {
   return (
-    <div className='home-component'>
+    <div>
       <NavBar />
-      <p>home page with about me</p>
+      <div className='home-component'>
+        <p>home page with about me</p>
+      </div>
     </div>
   )
 }
