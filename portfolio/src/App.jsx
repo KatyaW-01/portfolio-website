@@ -3,6 +3,7 @@ import {Routes, Route} from "react-router-dom"
 import Home from './pages/Home'
 import Articles from './pages/Articles'
 import Projects from './pages/Projects'
+import Footer from './components/Footer'
 
 
 function App() {

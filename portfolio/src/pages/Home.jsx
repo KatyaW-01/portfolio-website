@@ -1,4 +1,5 @@
 import NavBar from "../components/NavBar"
+import Footer from "../components/Footer"
 import '../styles/home.css'
 
 function Home() {
@@ -8,6 +9,7 @@ function Home() {
       <div className='home-component'>
         <p>home page with about me</p>
       </div>
+      <Footer />
     </div>
   )
 }

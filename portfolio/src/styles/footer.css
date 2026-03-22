@@ -1,0 +1,12 @@
+.footer-component {
+  background: #e5aba2;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.footer-content {
+  margin: 20px;
+}
