@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #ffcbc3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  height: 60px;
+  
+}
+
+.nav-links {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-left: 20px
+}
+
+
+.nav-link {
+  text-decoration: none;
+  padding: 7px;
+  border-radius: 5px;
+  color: #585858;
+  font-size: 20px;
+  box-sizing: border-box; 
+}
+
+.nav-link:hover {
+  font-weight: bold;
+  text-shadow:3px 3px 10px #ffff99;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
