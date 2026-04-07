@@ -8,10 +8,9 @@ Welcome to my porfolio website! Get to know me and browse my projects, blog, and
     ```
 2. Install necessary dependencies
     ```bash
-    cd portfolio
     npm install
     ```
-3. Start the server
+3. Start the server from the root directory
     ```bash
     npm run dev
     ```
