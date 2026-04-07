@@ -16,3 +16,6 @@ Welcome to my porfolio website! Get to know me and browse my projects, blog, and
     ```
 4. Copy the localhost link into your browser to view the webpage<br>
 http://localhost:5173/
+
+### Visit Deployed Site Here:
+https://katyaw-01.github.io/portfolio-website/
